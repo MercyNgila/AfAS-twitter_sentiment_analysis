@@ -2,8 +2,8 @@
 
 Welcome to the project on Natural Language Processing and sentiment analysis of COVID19-related data from Twitter! From these tutorials you will learn the following:
 
-Tutorial 1 - i) How to collect data from Twitter and refine your search for Tweets. ii) How to clean and prepare your Twitter data for NLP purposes
-Tutorial 2 - iii) How to use existing libraries to perform sentiment analysis
+Tutorial 1 - i) How to collect data from Twitter and refine your search for Tweets. ii) How to clean and prepare your Twitter data for NLP purposes  
+Tutorial 2 - iii) How to use existing libraries to perform sentiment analysis  
 Tutorial 3 - iv) How to use machine learning to obtain sentiment predictions. v) How to use transfer learning. 
 
 -----

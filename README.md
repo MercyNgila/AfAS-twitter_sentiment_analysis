@@ -6,18 +6,18 @@ Welcome to the project on Natural Language Processing and sentiment analysis of 
 *Tutorial 2* - iii) How to use existing libraries to perform sentiment analysis  
 *Tutorial 3* - iv) How to use machine learning to obtain sentiment predictions. v) How to use transfer learning. 
 
------
+
 
 ## Data
 
 
------
+
 
 
 ## Hackathon Task
 
 
------
+
 
 
 ### Not at the hackathon, but want to test your code-building skills? Feel free!
@@ -32,7 +32,7 @@ Then make sure you have the right Python libraries for the tutorials. They can a
 > pip install -r requirements.txt
 ```
 
------
+
 
 ### New to Github?
 

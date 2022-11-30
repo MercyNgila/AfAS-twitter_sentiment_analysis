@@ -1,11 +1,12 @@
-## Project Scope
+# Sentiment Analysis of Tweets  
+
+## Description
 
 Welcome to the project on Natural Language Processing and sentiment analysis of COVID19-related data from Twitter! From these tutorials you will learn the following:
 
 *Tutorial 1* - i) How to collect data from Twitter and refine your search for Tweets. ii) How to clean and prepare your Twitter data for NLP purposes  
 *Tutorial 2* - iii) How to use existing libraries to perform sentiment analysis  
 *Tutorial 3* - iv) How to use machine learning to obtain sentiment predictions. v) How to use transfer learning. 
-
 
 
 ## Data
@@ -19,19 +20,26 @@ Welcome to the project on Natural Language Processing and sentiment analysis of 
 
 
 
+## Prerequisites
 
-### Not at the hackathon, but want to test your code-building skills? Feel free!
+All the libraries/dependencies necessary to run the tutorials are listed in the [requirements.txt](https://github.com/Hack4Dev/twitter_sentiment_analysis-1/blob/master/requirements.txt) file.
 
-```bash
-> git clone https://github.com/Hack4Dev/twitter_sentiment_analysis-1.git
-```
 
-Then make sure you have the right Python libraries for the tutorials. They can all be installed using pip and the [requirements.txt](https://github.com/Hack4Dev/twitter_sentiment_analysis-1/blob/master/requirements.txt) file in the repo:
+## Installation
+
+All the required libraries can be installed using pip and the [requirements.txt](https://github.com/Hack4Dev/twitter_sentiment_analysis-1/blob/master/requirements.txt) file in the repo:
 
 ```bash
 > pip install -r requirements.txt
 ```
 
+### Would you like to clone this repository? Feel free!
+
+```bash
+> git clone https://github.com/Hack4Dev/twitter_sentiment_analysis-1.git
+```
+
+Then make sure you have the right Python libraries for the tutorials. 
 
 
 ### New to Github?

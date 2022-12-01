@@ -11,7 +11,7 @@ Welcome to the project on Natural Language Processing and sentiment analysis of 
 
 ## Data
 
-The dataset consists of ~4000 tweet texts collected from Twitter using the Twitter API. These data were collected in over June-July 2020 and are all related to COVID-19. If you would like to try the generalised verion of theis project please see the [ twitter_sentiment_analysis-1
+The dataset consists of ~4000 tweet texts collected from Twitter using the Twitter API. These data were collected in over June-July 2020 and are all related to COVID-19. If you would like to try the generalised version of this project please see the [ twitter_sentiment_analysis-1
 ](https://github.com/Hack4Dev/twitter_sentiment_analysis-1) repository. This project makes use of supervised machine learning, therefore the data have all been assigned sentiment labels, i.e. either 0, 1, or 2 corresponding to tweets with either negative, neutral or positive sentiment, respectively. 
 
 In order for you to run the code in Tutorial 1 which allows you to collect tweets, you will need to set up a Twitter developer account and obtain certain API authorisation credentials. This can be done by followin g the instructions set out in the [Twitter API v2 setup.pdf](https://github.com/Hack4Dev/twitter_sentiment_analysis/blob/master/COVID19_Twitter_Project/Twitter%20API%20v2%20setup.pdf) file.

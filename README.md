@@ -4,15 +4,15 @@
 
 Welcome to the project on Natural Language Processing and sentiment analysis of COVID19-related data from Twitter! From the tutorials you will learn the following:
 
-*Tutorial 1* - i) How to collect data from Twitter and refine your search for Tweets. ii) How to clean and prepare your Twitter data for NLP purposes  
-*Tutorial 2* - iii) How to use existing libraries to perform sentiment analysis  
-*Tutorial 3* - iv) How to use machine learning to obtain sentiment predictions. v) How to use transfer learning. 
+- *Tutorial 1* Collect and Clean Twitter Data
+- *Tutorial 2* Perform sentiment analysis using existing toolkits
+- *Tutorial 3* Perform sentiment analysis using machine learning
 
 
 ## Data
 
-The dataset consists of ~4000 tweet texts collected from Twitter using the Twitter API. These data were collected in over June-July 2020 and are all related to COVID-19. If you would like to try the generalised version of this project please see the [ twitter_sentiment_analysis-1
-](https://github.com/Hack4Dev/twitter_sentiment_analysis-1) repository.  
+The dataset consists of ~4000 tweet texts collected from Twitter using the Twitter API. These data were collected in over June-July 2020 and are all related to COVID-19. If you would like to try the generalised version of this project please see the [ twitter_sentiment_analysis
+](https://github.com/Hack4Dev/twitter_sentiment_analysis) repository.  
 
 This project makes use of supervised machine learning, therefore the data have all been assigned sentiment labels, i.e. either 0, 1, or 2 corresponding to tweets with either negative, neutral or positive sentiment, respectively. 
 
@@ -34,7 +34,7 @@ You will need to:
 
 ## Prerequisites
 
-All the libraries/dependencies necessary to run the tutorials are listed in the [requirements.txt](https://github.com/Hack4Dev/twitter_sentiment_analysis-1/blob/master/requirements.txt) file.
+All the libraries/dependencies necessary to run the tutorials are listed in the [requirements.txt](https://github.com/Hack4Dev/twitter_sentiment_analysis/blob/master/requirements.txt) file.
 
 
 ## Installation
@@ -48,7 +48,7 @@ All the required libraries can be installed using pip and the [requirements.txt]
 ### Would you like to clone this repository? Feel free!
 
 ```bash
-> git clone https://github.com/Hack4Dev/twitter_sentiment_analysis-1.git
+> git clone https://github.com/Hack4Dev/twitter_sentiment_analysis.git
 ```
 
 Then make sure you have the right Python libraries for the tutorials. 
@@ -65,13 +65,13 @@ apt install git
 You can then clone the repository by typing:
 
 ```
-git clone https://github.com/Hack4Dev/twitter_sentiment_analysis-1.git
+git clone https://github.com/Hack4Dev/twitter_sentiment_analysis.git
 ```
 
 To update your clone if changes are made, use:
 
 ```
-cd twitter_sentiment_analysis-1/
+cd twitter_sentiment_analysis/
 git pull
 ```
 

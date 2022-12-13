@@ -8,11 +8,12 @@ Welcome to the project on Natural Language Processing and sentiment analysis of 
 - *Tutorial 2* Perform sentiment analysis using existing toolkits
 - *Tutorial 3* Perform sentiment analysis using machine learning
 
+This project involves classical machine learing as well as transfer learning and therefore will require additional computing resources. The use of a GPU is recommeneded (see [Google Colab](https://colab.research.google.com/)).
+
 
 ## Data
 
-The dataset consists of ~4000 tweet texts collected from Twitter using the Twitter API. These data were collected in over June-July 2020 and are all related to COVID-19. If you would like to try the generalised version of this project please see the [ twitter_sentiment_analysis
-](https://github.com/Hack4Dev/twitter_sentiment_analysis) repository.  
+The dataset consists of ~4000 tweet texts collected from Twitter using the Twitter API. These data were collected in over June-July 2020 and are all related to COVID-19. If you would like to try the generalised version of this project please see the [twitter_sentiment_analysis](https://github.com/Hack4Dev/twitter_sentiment_analysis) repository.  
 
 This project makes use of supervised machine learning, therefore the data have all been assigned sentiment labels, i.e. either 0, 1, or 2 corresponding to tweets with either negative, neutral or positive sentiment, respectively. 
 
